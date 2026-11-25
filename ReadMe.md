@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently learning Python, C++, Machine Learning, Data Engineering<br><br>👯 I'm looking to collaborate on Machine Learning and/or Data Engineering Project<br><br>🤝 I'm looking for help with Learning CS and Software Engineering deeply<br><br>📫 How to reach me pdeny7@gmail.com<br><br>⚡ Fun fact I watched a lot of motorsport so you can hit me up if you got motorsport (F1, MotoGP, WEC etc) related project<br><br>
+🌱 I'm currently learning Python, C++, Machine Learning, Data Engineering<br><br>👯 I'm looking to collaborate on Machine Learning and/or Data Engineering Project<br><br>🤝 I'm looking for help with learning CS and Software Engineering deeply<br><br>📫 How to reach me pdeny7@gmail.com<br><br>⚡ Fun fact I watched a lot of motorsport so you can hit me up if you got motorsport (F1, MotoGP, WEC etc) related project<br><br>
 
 
 ## 🌐 Socials:
